@@ -29,6 +29,7 @@ h1{
 .explore-button{
     text-decoration: none;
     background-image: linear-gradient(45deg, lightsalmon, tomato);
+    color: white;
     border-radius: 5px;
     font-weight: 700;
     padding: 10px 40px;
